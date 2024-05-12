@@ -1,0 +1,22 @@
+c:\users\desire\documents\visual studio 2012\Projects\MalikBrotherCS\MalikBrotherCS\bin\Debug\MalikBrotherCS.exe.config
+C:\Users\Desire\Documents\Visual Studio 2012\Projects\MalikBrotherCS\MalikBrotherCS\bin\Debug\MalikBrotherCS.exe
+C:\Users\Desire\Documents\Visual Studio 2012\Projects\MalikBrotherCS\MalikBrotherCS\bin\Debug\MalikBrotherCS.pdb
+C:\Users\Desire\Documents\Visual Studio 2012\Projects\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.csprojResolveAssemblyReference.cache
+C:\Users\Desire\Documents\Visual Studio 2012\Projects\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.Dashbord.resources
+C:\Users\Desire\Documents\Visual Studio 2012\Projects\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.Properties.Resources.resources
+C:\Users\Desire\Documents\Visual Studio 2012\Projects\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.csproj.GenerateResource.Cache
+C:\Users\Desire\Documents\Visual Studio 2012\Projects\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.exe
+C:\Users\Desire\Documents\Visual Studio 2012\Projects\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.pdb
+C:\Users\Desire\Documents\Visual Studio 2012\Projects\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.newEntry.resources
+C:\Users\Desire\Documents\Visual Studio 2012\Projects\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.LoginForm.resources
+E:\MalikBrotherCS\MalikBrotherCS\bin\Debug\MalikBrotherCS.exe.config
+E:\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.exe
+E:\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.pdb
+E:\MalikBrotherCS\MalikBrotherCS\bin\Debug\MalikBrotherCS.exe
+E:\MalikBrotherCS\MalikBrotherCS\bin\Debug\MalikBrotherCS.pdb
+E:\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.csprojResolveAssemblyReference.cache
+E:\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.Dashbord.resources
+E:\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.newEntry.resources
+E:\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.LoginForm.resources
+E:\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.Properties.Resources.resources
+E:\MalikBrotherCS\MalikBrotherCS\obj\Debug\MalikBrotherCS.csproj.GenerateResource.Cache
